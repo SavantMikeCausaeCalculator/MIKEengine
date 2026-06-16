@@ -15,7 +15,8 @@ System die Luft als energetisches Übertragungsmedium.
 ## 2. Funktionsmechanismus des Antriebs
 Der Antrieb basiert auf der permanenten Umleitung des Mediums (Luft) von der Front des Fahrzeugs an dessen Heck.
 
-![Funktionsprinzip und Zündung](20260613070817_61699865.jpeg)
+![Funktionsprinzip und Zündung](20260613070816_88309737.jpeg)
+
 
 - **Druckaufbau (Front):** Das Fahrzeug, exakt auf den Tunnelquerschnitt abgestimmt, verdrängt die
   vor ihm liegende Luftmasse. Diese wird in den Rückführkanal gezwungen.
