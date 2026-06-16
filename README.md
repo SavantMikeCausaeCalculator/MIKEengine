@@ -1,4 +1,6 @@
-# MIKEengine; Evolution of Field Theory: Beyond mc^2 – Toward mc^3 and Resonant Geometry mc^{\pi}
+# MIKEengine; 
+
+Evolution of Field Theory: Beyond mc^2 – Toward mc^3 and Resonant Geometry mc^{\pi}
 
 M-agnetic
 I-ntermitting-Pulsating
