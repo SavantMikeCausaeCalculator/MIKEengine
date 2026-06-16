@@ -35,6 +35,9 @@ Der Antrieb ist ein geschlossener thermodynamischer Kreislauf.
 - **Modulation:** Die Geschwindigkeit wird nicht durch „Gasgeben“ gesteuert, sondern durch die geometrische
   Anpassung der Rückführkanäle. Eine Verengung der Kanäle erhöht die Druckamplitude und damit die Beschleunigung.
 
+  ![Geometrische Strömungs-Diamanten](20260613070817_84839432.jpeg)
+  
+
 ## 4. Bremsvorgang (Druckauflösung)
 Das Bremsen erfordert keinen mechanischen Verschleiß (keine Reibung an Schienen).
 - **Mechanismus:** Am Zielpunkt wird die Geometrie des Tunnels oder des Fahrzeugs schlagartig erweitert
