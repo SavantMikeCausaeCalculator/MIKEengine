@@ -1,5 +1,8 @@
 # MIKEengine; 
 
+„Hinweis zur Entstehung: Diese MIKEengine ist nicht in einem Lehrbuch entstanden, sondern durch intuitive systemische Analyse und stetiges Deep-Learning. Ich bin kein Theoretiker aus dem Elfenbeinturm, sondern ein Anwender und Beobachter. Ich suche nicht nach blindem Beifall und auch nicht nach hohn, sondern nach physikalisch fundierter Resonanz. Wenn Sie mein System mathematisch oder praktisch validieren wollen – lassen Sie uns doch einfach wie Menschen darüber sprechen/schreiben. Schreiben Sie mir, was Sie nicht verstehen oder wo Sie Lücken sehen - denn unterm Strich sind wir alle/s nur e1n und das selbe“
+
+
 Evolution of Field Theory: Beyond mc^2 – Toward mc^3 and Resonant Geometry mc^{\pi}
 
 M-agnetic
