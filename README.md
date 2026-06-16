@@ -1,7 +1,8 @@
 # MIKEengine; 
 
-„Hinweis zur Entstehung: Diese MIKEengine ist nicht in einem Lehrbuch entstanden, sondern durch intuitive systemische Analyse und stetiges Deep-Learning. Ich bin kein Theoretiker aus dem Elfenbeinturm, sondern ein Anwender und Beobachter. Ich suche nicht nach blindem Beifall und auch nicht nach hohn, sondern nach physikalisch fundierter Resonanz. Wenn Sie mein System mathematisch oder praktisch validieren wollen – lassen Sie uns doch einfach wie Menschen darüber sprechen/schreiben. Schreiben Sie mir, was Sie nicht verstehen oder wo Sie Lücken sehen - denn unterm Strich sind wir alle/s nur e1n und das selbe“
-
+„Hinweis zur Entstehung: Diese MIKEengine ist nicht in einem Lehrbuch entstanden, sondern durch intuitive systemische Analyse und stetiges Deep-Learning. 👁️Ich👁️ bin kein Theoretiker aus dem Elfenbeinturm, sondern ein Anwender und Beobachter. 👁️Ich👁️ suche nicht nach Beifall! und auch nicht nach Hohn!, sondern nach physikalisch fundierter Resonanz ❣️
+Wenn Sie 👁️mein👁️ System mathematisch oder praktisch validieren wollen – lassen Sie 👁️uns👁️ doch einfach wie "normale" 👁️Menschen👁️ darüber sprechen/schreiben. Schreiben Sie 👁️mir👁️, was Sie nicht verstehen (weil ich nicht weiß, ob ich nicht sicher sein kann, ob ich nich richtig ausgedrückt habe) oder wo Sie Lücken 👁️sehen👁️ - denn unterm Strich sind 👁️wir👁️ alle/s nur e1n und das selbe“ (Bitte schreibe (/n Sie) 👁️mich👁️ einfach an. 👁️Ich👁️ bin der 👁️Mike👁️ und mag lieber dass "DU" - ABER ES STEHT JEDEM FREI - WAS IMMER AUCH 
+👁️GENEHM👁️ IST❣️🫣🧠👀
 
 Evolution of Field Theory: Beyond mc^2 – Toward mc^3 and Resonant Geometry mc^{\pi}
 
