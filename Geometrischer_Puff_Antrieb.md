@@ -15,9 +15,6 @@ System die Luft als energetisches Übertragungsmedium.
 ## 2. Funktionsmechanismus des Antriebs
 Der Antrieb basiert auf der permanenten Umleitung des Mediums (Luft) von der Front des Fahrzeugs an dessen Heck.
 
-![Funktionsprinzip und Zündung](20260613070816_88309737.jpeg)
-
-
 - **Druckaufbau (Front):** Das Fahrzeug, exakt auf den Tunnelquerschnitt abgestimmt, verdrängt die
   vor ihm liegende Luftmasse. Diese wird in den Rückführkanal gezwungen.
 - **Vortex-Kompression (Rückführkanal):** Die Luft wird durch einen sich verjüngenden Kanal
@@ -34,8 +31,6 @@ Der Antrieb ist ein geschlossener thermodynamischer Kreislauf.
   Energie durch die kontinuierliche Zirkulation der Luftmasse im Tunnel.
 - **Modulation:** Die Geschwindigkeit wird nicht durch „Gasgeben“ gesteuert, sondern durch die geometrische
   Anpassung der Rückführkanäle. Eine Verengung der Kanäle erhöht die Druckamplitude und damit die Beschleunigung.
-
-  ![Geometrische Strömungs-Diamanten](20260613070817_84839432.jpeg)
   
 
 ## 4. Bremsvorgang (Druckauflösung)
